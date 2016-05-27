@@ -1,0 +1,7 @@
+INSTRUCTION :
+	
+	1. run Seperate_best_second_third.ipynb
+	   Split zh_train.csv into best / seond / third .csv
+	
+	2. run Generate_similar_data.ipynb
+	   
